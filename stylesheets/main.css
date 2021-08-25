@@ -940,3 +940,11 @@ footer .badges img:hover {
     justify-content: center;
     align-items: center;
 }
+
+#logo-slider .splide__arrow--prev {
+    left: 0px;
+}
+
+#logo-slider .splide__arrow--next {
+    right: 0px;
+}
